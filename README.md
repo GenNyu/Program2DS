@@ -2,7 +2,6 @@
 Final Project about Heart Attack
 
 #### Course: Programming for Data Science
-#### Nhóm 23 - Lớp 21_21
 | Fullname                | ID      |
 |:------------------    |:--------: |
 | Lê Trần Minh Khuê     | 21120279  |
